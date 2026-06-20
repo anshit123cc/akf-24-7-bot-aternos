@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ansdiv.aternos.me:18381",
-    "port": 18381,
-    "version": "1.21.11",
+    "ip": "deepspoil.aternos.me",
+    "port": 32072,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
