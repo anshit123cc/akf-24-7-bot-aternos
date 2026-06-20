@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ansdiv.aternos.me ",
+    "ip": "ansdiv.aternos.me:18381",
     "port": 18381,
     "version": "1.21.11",
     "try-creative": false
